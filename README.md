@@ -111,19 +111,3 @@ It covers everything from **basic concepts to advanced operations**, helping bui
 * Data preprocessing examples
 
 ---
-
-## 🤝 Contributing
-
-Feel free to fork this repository and improve it by adding more examples or projects.
-
----
-
-## ⭐ Support
-
-If you find this helpful, consider giving it a ⭐ to support the work!
-
----
-
-## 📬 Connect with Me
-
-* LinkedIn: *(Add your profile link here)*
