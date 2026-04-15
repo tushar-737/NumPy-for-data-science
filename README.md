@@ -11,7 +11,7 @@ It covers everything from **basic concepts to advanced operations**, helping bui
 **NumPy (Numerical Python)** is a powerful library used for:
 
 * Fast mathematical computations
-* Working with multi-dimensional arrays
+* Working with multi-dimensional arrays 
 * Building a base for libraries like Pandas, Matplotlib, and Scikit-learn
 
 ---
